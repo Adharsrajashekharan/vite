@@ -1,0 +1,1 @@
+export const SWIGGY_API ="https://www.swiggy.com/dapi/homepage/getCards?lat=8.478685&lng=76.957739"

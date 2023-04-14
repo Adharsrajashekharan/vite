@@ -1,0 +1,20 @@
+.header{
+display: flex;
+flex-wrap: wrap;
+background-color: #000000;
+align-items: center;
+color: aliceblue;
+height: 5rem;
+justify-content: space-around;
+}
+.header>div{
+    justify-content: space-around;
+
+}
+.footer{
+
+    text-align: center;
+    background-color: black;
+    color: blue;
+    justify-content: center;
+}
